@@ -15,8 +15,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+- ---
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - :woman_technologist: About Me : I am a Full Stack Developer from Argentina. 
+
 - :telescope: I’m looking to start working as a Full Time Blockchain Developer.
 
 - :seedling: Learning Web3
