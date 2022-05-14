@@ -27,7 +27,9 @@
 
 - :zap: In my free time, I have a small business for solid champú
 
-- :mailbox:How to reach me: (https://www.linkedin.com/in/mariaelisamosquera/)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/mariaelisamosquera/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - ---
 
 :hammer_and_wrench: Languages and Tools :
